@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Pineapple Keyboard</string>
+    <string name="keyboard_name">Default Keyboard</string>
+    <string name="detail">Drfault Detail</string>
+    <string name="profile">About Me</string>
+    <string name="image_profile">Nana Supriatna</string>
+    <string name="content_profile">"i hope this application can be useful, u can find me at nanasupriatnakursus@gmail.com or github.com/catatankuliah-lab"</string>
+    <string name="spek">Spesifikasi Teknis</string>
+    <string name="share">Share</string>
+    <string name="vr3">Vortex RACE 3 RGB</string>
+    <string name="mg82">The Magicforce Smart 82"</string>
+    <string name="mg68">Magicforce Smart 68 Typewriter</string>
+    <string name="do2">Ducky One 2 Mini RGB</string>
+    <string name="dv">Ducky x Varmilo MIYA Pro Sakura</string>
+    <string name="kbv">KBParadise V60 Vintage Beige Top Print</string>
+    <string name="kbd">KBParadise V60 Dolch (Cherry MX Blue)</string>
+    <string name="kbr">KBParadise V80 Red Dolch (Matias Quiet Click)</string>
+    <string name="va87">Varmilo VA87M Vintage Days</string>
+    <string name="poker">The Vortexgear POK3R Limited Edition</string>
+    <string name="d_vr3">Vortex RACE 3  menggunakan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan  50 million keystrokes, dibuat dengan case Alumunium dan DSA PBT Dye Sublimated Keycap yang menjadikan keycaps terasa nyaman ditangan, serta dukungan RGB backlight yang membuat keyboard ini terasa lebih mewah.</string>
+    <string name="d_mg82">The Magicforce Smart 82 menggunakan gateron mechanical switches, gateron switch sendiri sudah sangat terkenal di komunitas keyboard mechanic karena harganya yang relatif lebih murah tetapi memberikan pengalaman mengetik yang mewah. Magicforce Smart 82 datang dengan  ABS double shot backlit keycaps dan tetntunya dengan dukungan RGN backlight yang customable.</string>
+    <string name="d_mg68">Magicforce Smart 68 Typewriter hadir dengan gateron mechanical switches, gateron switch sendiri sudah sangat terkenal di komunitas keyboard mechanic karena harganya yang relatif lebih murah tetapi memberikan pengalaman mengetik yang mewah. Yang menjadikan keyboard ini unik karena bentuk keycapsnya yang cenderung membuat pengalaman mengetik yang berbeda dengan keyboard lainnya serta dukungan RGB backlight yang membuat keyboard ini terlihat lebih cantik.</string>
+    <string name="d_do2">Ducky One 2 Mini RGB adalah keyboard layout 60% dari Ducky One yang hadir dengan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan 50 Million Keystrokes yang membuat keyboard ini cukup meumpuni untuk game intens dan mengektik. Ukuran 60% layout dan desain frame yang tipis membuat keyboard ini cocok untuk dibaawa kemana-mana.</string>
+    <string name="d_dv">Ducky x Varmilo MIYA Pro Sakura, keyboard cantik hasil kolaborasi Ducky x Varmilo hadir dengan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan 50 Million Keystrokes yang membuat keyboard ini cukup meumpuni untuk game intens dan mengektik. Keycaps PBT yang digunakan hadir dengan "Step-Sculpture 2" low-profile keycaps, keycaps jenis ini membuat pengalmaan mengetik lebih nyaman.</string>
+    <string name="d_kbv">KBParadise V60 Vintage Beige hadir dengan menggunakan Xiang Min (XM) KSB Series ALPS Switches, karakteristik switch ini clicky switch dengan ivory slider. Dilengkapi dengan Detachable Mini-USB Cable membuat keyboard ini lebih mudah jika dibawa kemana-mana.</string>
+    <string name="d_kbd">KBParadise untuk varian KBParadise V60 Dolch hadir dengan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan 50 Million Keystrokes yang membuat keyboard ini cukup meumpuni untuk game intens dan mengektik. Dilengkapi dengan Tai-Hao ABS Double Shot Keycap ABS dan Detachable Mini-USB Cable membuat keyboard ini lebih mudah jika dibawa kemana-mana.</string>
+    <string name="d_kbr">KBParadise V80 Red Dolch (Matias Quiet Click) merupakan varian dari seri KBParadise, kali ini hadir dengan switch Matias Quiet Click yang karakteristiknya sielnt membuat keyboard ini cocok juga digunakan di office. Dari segi keycaps yang digunakan hadir dengan Tai-Hao ABS Double Shot Keycap dengan dua buah kombinasi warna membuat keyboard ini sielnt tetapi juga cantik.</string>
+    <string name="d_va87">Varmilo VA87M Vintage Days + CMYK hadir dengan konfigurasi keycaps yang cantik dengan warna CMYK pada beberapa keycaps membuat keyboard ini semakin cantik. Untuk segi switch, keyboard ini hadir dengan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan 50 Million Keystrokes yang membuat keyboard ini cukup meumpuni untuk game intens dan mengektik. Untuk segi keycaps sendiri juga hadir dengan Keycaps PBT dengan teknologi "Step-Sculpture 2" low-profile keycaps, keycaps jenis ini membuat pengalmaan mengetik lebih nyaman.</string>
+    <string name="d_poker">The Vortexgear POK3R Limited Edition datang dengan CHERRY MX Mechanical Switches yang memberikan garansi sampai dengan 50 Million Keystrokes yang membuat keyboard ini cukup meumpuni untuk game intens dan mengektik. Dilengkapi dengan Alumunium dan acrylic yang menjadikan keyboard ini ringan namun tetap solid. Pada bagian keycaps keyboard ini hadir dengan PBT double shot keycaps dan dukungan RGB backlight.</string>
+    <string name="s_vr3">Switch Type : Cherry MX Red\nKeyboard Size : Compact (75%)\nKeyboard Layout : English (QWERTY)\nKeyboard Backlighting :  RGB LED\nKeycap Plastic : PBT\nKeycap Color : Gray+Light Gray\nKeycap Printing Method : Dye Sublimated\nDimensions : 10mm x 119mm x 30mm\nWeight : 1.7lbs\nCable Type : Standard\nCable Length : 1.5m (Micro-USB 2.0 detachable)</string>
+    <string name="s_mg82">Switch Type : Gateron Red\nKeyboard Size : Compact (75%)\nKeyboard Layout : English (QWERTY)\nKeyboard Backlighting : White LED\nKeycap Plastic : ABS\nKeycap Color : White\nKeycap Printing Method : Double Shot\nDimensions : 313mm x 127mm x 40mm\nWeight : 1.31lbs\nCable Type : Standard\nCable Length : 1.5m (Mini-USB 2.0 detachable)</string>
+    <string name="s_mg68">
+        Switch Type : Gateron Brown
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : White LED
+        \nKeycap Plastic : ABS (Chrome-Plated)
+        \nKeycap Color : Black
+        \nKeycap Printing Method : Pad Printed
+        \nKeycap Printing Color : White
+        \nDimensions : 337mm x 104mm x 37mm
+        \nWeight : 1.3lbs
+        \nCable Type : Standard
+        \nCable Length : 1.5m (Mini-USB 2.0 detachable)
+    </string>
+    <string name="s_do2">
+        Switch Type : Cherry MX Speed Silver
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : RGB LED
+        \nKeycap Plastic : PBT
+        \nKeycap Color : Black
+        \nKeycap Printing Method : Double Shot
+        \nKeycap Printing Position : Top
+        \nKeycap Printing Color : Clear (Backlit)
+        \nDimensions : 302mm x 108mm x 40mm
+        \nWeight : 1.30lbs
+        \nCable Type : Standard
+        \nCable Length : 1.5m (USB Type-C 2.0 detachable)
+    </string>
+    <string name="s_dv">
+        Switch Type : Cherry MX Speed Silver
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : Pink LED
+        \nKeycap Plastic : PBT
+        \nKeycap Color : Pink+White
+        \nKeycap Printing Method : Dye Sublimated
+        \nKeycap Printing Color : Pink
+        \nDimensions : 341mm x 108mm x 35mm
+        \nWeight : 2.64lbs
+        \nCable Type : Standard
+        \nCable Length : 2m (USB Type-C 2.0 detachable)
+    </string>
+    <string name="s_kbv">
+        Switch Type : XM Clicky (XM KSB-C)
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : None
+        \nKeycap Plastic : ABS
+        \nKeycap Color : Dark Beige+Light Beige
+        \nKeycap Printing Method : Laser Etched
+        \nKeycap Printing Color : Beige
+        \nDimensions : 291mm x 100mm x 42.5mm
+        \nWeight : 1.12lbs
+        \nCable Type : Standard
+        \nCable Length : 1.5m (Mini-USB 2.0 detachable)
+    </string>
+    <string name="s_kbd">
+        Switch Type : Cherry MX Blue
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : None
+        \nKeycap Plastic : ABS
+        \nKeycap Color : Black+Gray
+        \nKeycap Printing Method : Double Shot
+        \nKeycap Printing Color : White
+        \nDimensions : 291mm x 100mm x 42.5mm
+        \nWeight : 1.12lbs
+        \nCable Type : Standard
+        \nCable Length : 1.5m (Mini-USB 2.0 detachable)
+    </string>
+    <string name="s_kbr">
+        Switch Type : Matias Quiet Click
+        \nKeyboard Size : Tenkeyless
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting: None
+        \nKeycap Plastic : ABS
+        \nKeycap Color : Red+Gray
+        \nKeycap Printing Method : Double Shot
+        \nKeycap Printing Position : Top
+        \nKeycap Printing Color : White
+        \nDimensions : 357mm x 135mm x 35mm
+        \nWeight : 2.07lbs
+        \nCable Type : Braided
+        \nCable Length : 1.5m (Mini-USB 2.0 detachable)
+    </string>
+    <string name="s_va87">
+        Switch Type : Cherry MX Red
+        \nKeyboard Size : Tenkeyless
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : White LED
+        \nKeycap Plastic : PBT
+        \nKeycap Color : Gray+White
+        \nKeycap Printing Method : Dye Sublimated
+        \nKeycap Printing Color : Black
+        \nDimensions : 356mm x 132mm x 33.5mm
+        \nWeight : 2.13lbs
+        \nCable Type : Standard
+        \nCable Length : 2m (Mini-USB 2.0 detachable)
+    </string>
+    <string name="s_poker">
+        Switch Type : Cherry MX Blue
+        \nKeyboard Size : Compact (60%)
+        \nKeyboard Layout : English | QWERTY
+        \nKeyboard Backlighting : RGB LED
+        \nKeycap Plastic : PBT
+        \nKeycap Color : Black
+        \nKeycap Printing Method : Double Shot
+        \nDimensions : 300mm x 122mm x 39mm
+        \nWeight : 3lbs
+        \nCable Type : Standard
+        \nCable Length : 1.5m (Mini-USB 2.0 detachable)
+    </string>
+
+
+</resources>
